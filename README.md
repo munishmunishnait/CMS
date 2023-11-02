@@ -3,6 +3,7 @@
 Fresh Bakers Bakery Blog Website
 Fresh Bakers is a bakery blog website developed using CodeIgniter and MySQL, designed to share and explore delightful bakery-related content. This README provides an overview of the website's features and usage.
 Table of Contents
+
 •	Features
 •	Database Tables
 •	Getting Started
